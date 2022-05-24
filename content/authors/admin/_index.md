@@ -11,29 +11,26 @@ role: Ph.D. candidate in Computer Science and member of the Recod.ai lab
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Campinas
-    url: https://www.stanford.edu/
+    url: https://www.unicamp.br/unicamp/index.php/english
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Computer Vision
+  - Deep Learning
+  - Self-Supervised Learning
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Computer Science focused in Computer Vision and Deep Learning
+      year: Ongoing
+    - course: BSc in Compiter Engineering
+      institution: University of Campinas
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

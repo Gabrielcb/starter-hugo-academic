@@ -12,6 +12,8 @@ role: Ph.D. candidate in Computer Science and member of the Recod.ai lab
 organizations:
   - name: University of Campinas
     url: https://www.unicamp.br/unicamp/index.php/english
+  - name: Recod.ai
+    url: https://recod.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

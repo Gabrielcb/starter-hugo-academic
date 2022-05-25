@@ -7,7 +7,7 @@ authors:
   - Gabriel C. Bertocco
   - Fernanda Andaló
   - and Anderson Rocha
-doi: 10.1109/TIFS.2021.310715
+doi: 10.1109/TIFS.2021.3107157
 publication: IEEE Transactions on Information Forensics and Security
 draft: false
 featured: false

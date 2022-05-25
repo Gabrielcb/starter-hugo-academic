@@ -7,8 +7,7 @@ authors:
   - admin
   - Fernanda Andaló
   - and Anderson Rocha
-author_notes:
-  - "2014"
+author_notes: []
 doi: 10.1109/TIFS.2021.3107157
 publication: IEEE Transactions on Information Forensics and Security
 draft: false

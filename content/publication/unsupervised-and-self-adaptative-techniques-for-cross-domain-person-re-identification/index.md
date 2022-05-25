@@ -4,7 +4,7 @@ title: Unsupervised and self-adaptative techniques for cross-domain person
 publication_types:
   - "2"
 authors:
-  - Gabriel C. Bertocco
+  - admin
   - Fernanda Andaló
   - and Anderson Rocha
 author_notes:

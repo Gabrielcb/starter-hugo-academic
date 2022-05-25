@@ -9,7 +9,7 @@ authors:
   - Fernanda A. Andaló
   - Didier A. Vega-Oliveros
   - João P. Cardenuto
-  - Gabriel Bertocco
+  - admin
   - José Nascimento
   - Jing Yang
   - and Anderson Roch

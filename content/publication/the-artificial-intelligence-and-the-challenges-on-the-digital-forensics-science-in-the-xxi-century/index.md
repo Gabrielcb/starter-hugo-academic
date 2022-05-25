@@ -1,5 +1,5 @@
 ---
-title: . The Artificial Intelligence and the challenges on the Digital Forensics
+title: The Artificial Intelligence and the challenges on the Digital Forensics
   Science in the XXI century
 publication_types:
   - "2"

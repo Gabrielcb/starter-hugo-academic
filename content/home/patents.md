@@ -2,7 +2,7 @@
 widget: pages
 widget_id: All-Patents
 headless: true
-weight: 30
+weight: 40
 title: Patents
 subtitle: ""
 content:

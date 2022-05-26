@@ -1,6 +1,5 @@
 ---
-title: Unsupervised and self-adaptative techniques for cross-domain person
-  re-identification
+title: Multiple-tiered facial recognition
 publication_types:
   - "2"
 authors:

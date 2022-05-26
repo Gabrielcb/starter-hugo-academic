@@ -11,7 +11,7 @@ authors:
   - Torres R
   - ROCHA A
 author_notes: []
-doi: 10.1109/TIFS.2021.3107157
+doi: 
 publication: United States
 draft: false
 featured: false

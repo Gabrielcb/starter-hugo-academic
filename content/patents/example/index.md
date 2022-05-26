@@ -6,7 +6,7 @@ authors:
   - Andalo, F.
   - Padilha, R.
   - Almeida, W. R.
-  - Bertocco, G. 
+  - **Bertocco, G.** 
   - Wainer, J.
   - Torres, R.
   - ROCHA, A.

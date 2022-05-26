@@ -1,36 +1,26 @@
 ---
-abstract: ""
-slides: example
-url_pdf: ""
+title: Unsupervised and self-adaptative techniques for cross-domain person
+  re-identification
 publication_types:
-  - "1"                                
+  - "2"
 authors:
-  - Andalo, F.
-  - Padilha, R.
-  - *Bertocco, G.*
-  - Wainer, J.
-  - Torres, R.
-  - Rocha, A.
-author_notes: ""
-publication: In *United States*
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: Multiple-tiered facial recognition
-doi: ""
-featured: true
-tags: []
-projects: ""
+  - admin
+  - Fernanda Andaló
+  - and Anderson Rocha
+author_notes: []
+doi: 10.1109/TIFS.2021.3107157
+publication: IEEE Transactions on Information Forensics and Security
+draft: false
+featured: false
 image:
-  caption: ""
-  focal_point: ""
+  filename: featured
+  focal_point: Smart
   preview_only: false
-date: 2018-05-13T00:00:00.000Z
-url_slides: ""
-publishDate: 2018-05-13T00:00:00.000Z
-url_poster: ""
-url_code: ""
+date: 2021-08-13T13:18:49.667Z
 ---
+# Author notes (optional)
+
+author_notes:
+
+date: '2014-07-01'
+doi: ''

@@ -31,14 +31,23 @@ experience:
     date_end: '2019-06-30'
     description:
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Undergraduate Research 
+    company: Motorola Mobility
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Campinas-SP, Brazil
+    date_start: '2015-09-15'
+    date_end: '2018-12-31'
+    description: Study and design Deep Learning-based for Automatica Age Range Estimation on Mobile Devices
+    
+  - title: Undergraduate Student
+    company: University of Campinas
+    company_url: ''
+    company_logo: 
+    location: Campinas-SP, Brazil
+    date_start: '2014-03-03'
+    date_end: '2019-06-30'
+    description:
 
 design:
   columns: '2'

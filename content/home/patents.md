@@ -1,27 +1,25 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-widget_id: My-Patents
-
-# This file represents a page section.
+widget_id: All-Patents
 headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-# Section title
+weight: 30
 title: Patents
-
-# Section subtitle
-subtitle:
-
-# Section design
+subtitle: ""
+content:
+  filters:
+    folders:
+      - patents
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  count: 0
+  offset: 0
+  order: desc
 design:
-  # Use a 1-column layout
+  view: citation
   columns: "2"
-  # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
 ---

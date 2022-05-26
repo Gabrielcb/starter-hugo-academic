@@ -25,7 +25,7 @@ experience:
   - title: Undergraduate Student
     company: University of Campinas
     company_url: ''
-    company_logo: UNICAMP_logo
+    company_logo: org-x
     location: Campinas-SP
     date_start: '2014-03-03'
     date_end: '2019-06-30'

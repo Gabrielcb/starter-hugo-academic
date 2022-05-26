@@ -3,13 +3,13 @@ title: Multiple-tiered facial recognition
 publication_types:
   - "2"
 authors:
-  - Andalo, F.
-  - Padilha, R.
-  - Almeida, W. R.
-  - Bertocco, G. 
-  - Wainer, J.
-  - Torres, R.
-  - ROCHA, A.
+  - Andalo 
+  - Padilha 
+  - Almeida 
+  - Bertocco 
+  - Wainer
+  - Torres
+  - ROCHA
 author_notes: []
 doi: 10.1109/TIFS.2021.3107157
 publication: United States

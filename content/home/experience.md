@@ -22,14 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Undergraduate Student
-    company: University of Campinas
+  - title: Ph.D. student
+    company: Institute of Computing/UNICAMP
     company_url: ''
     company_logo: 
     location: Campinas-SP
-    date_start: '2014-03-03'
-    date_end: '2019-06-30'
+    date_start: '2019-08-01'
+    date_end: 
     description:
+    
+  - title: Undergraduate Research 
+    company: Scipet Solutions
+    company_url: ''
+    company_logo: 
+    location: Campinas-SP, Brazil
+    date_start: '2019-01-15'
+    date_end: '2019-07-30'
+    description: I worked in deep learning-based solutions to identify stray dogs and cats and filter out unknown classes leveraging and studying Open-Set solutions                    and Explainable Artificial Intelligence (XAI) techniques.  
 
   - title: Undergraduate Research 
     company: Motorola Mobility
@@ -38,10 +47,10 @@ experience:
     location: Campinas-SP, Brazil
     date_start: '2015-09-15'
     date_end: '2018-12-31'
-    description: Study and design Deep Learning-based for Automatica Age Range Estimation on Mobile Devices
+    description: Study and designing of Deep Learning-based for Automatic Age Range Estimation on Mobile Devices
     
   - title: Undergraduate Student
-    company: University of Campinas
+    company: University of Campinas (UNICAMP)
     company_url: ''
     company_logo: 
     location: Campinas-SP, Brazil

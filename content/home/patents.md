@@ -18,7 +18,6 @@ subtitle:
 
 # Section design
 design:
-  view: citation
   # Use a 1-column layout
   columns: "2"
   # Use a dark navy background with light text.

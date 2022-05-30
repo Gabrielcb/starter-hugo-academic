@@ -29,8 +29,11 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Biometrics
+      tag: Biometrics
+    - name: Forensics
+      tag: Forensics 
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

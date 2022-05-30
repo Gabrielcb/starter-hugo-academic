@@ -12,7 +12,7 @@ authors:
   - Ricardo da S Torres
   - Jacques Wainer
   - and Anderson Rocha
-doi: " 10.1049/iet-bmt.2020.0031"
+doi: 10.1049/iet-bmt.2020.0031
 publication: IET Biometrics
 draft: false
 featured: false

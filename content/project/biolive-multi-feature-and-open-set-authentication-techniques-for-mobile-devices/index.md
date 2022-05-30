@@ -3,10 +3,12 @@ title: "BioLive: Multi-feature and Open-Set Authentication Techniques for Mobile
   Devices"
 subtitle: 2015 - 2017
 date: 2022-05-30T15:11:22.249Z
+summary: ""
 draft: false
 featured: false
 tags:
   - Deep Learning
+  - Biometrics
 image:
   filename: featured
   focal_point: Smart

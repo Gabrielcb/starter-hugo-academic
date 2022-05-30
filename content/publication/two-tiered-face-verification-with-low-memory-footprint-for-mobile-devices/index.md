@@ -12,7 +12,7 @@ authors:
   - Ricardo da S Torres
   - Jacques Wainer
   - and Anderson Rocha
-doi: https://www.researchgate.net/profile/Fernanda-Andalo/publication/342703093_Two-tiered_face_verification_with_low-memory_footprint_for_mobile_devices/links/5f0c9f5d92851c38a51a1462/Two-tiered-face-verification-with-low-memory-footprint-for-mobile-devices.pdf
+doi: " 10.1049/iet-bmt.2020.0031"
 publication: IET Biometrics
 draft: false
 featured: false

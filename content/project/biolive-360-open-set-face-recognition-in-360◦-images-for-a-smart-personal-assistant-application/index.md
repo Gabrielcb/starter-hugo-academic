@@ -3,8 +3,14 @@ title: "BioLive-360: open-set face recognition in 360º images for a smart
   personal assistant application"
 subtitle: "2018"
 date: 2022-05-30T15:21:05.954Z
+summary: ""
 draft: false
 featured: false
+authors: []
+tags:
+  - Deep Learning
+  - Biometrics
+categories: []
 image:
   filename: featured
   focal_point: Smart

@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Self-Supervised Learning
+      tag: Self-Supervised Learning
     - name: Biometrics
       tag: Biometrics
     - name: Forensics

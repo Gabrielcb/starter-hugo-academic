@@ -5,6 +5,8 @@ subtitle: 2015 - 2017
 date: 2022-05-30T15:11:22.249Z
 draft: false
 featured: false
+tags:
+  - Deep Learning
 image:
   filename: featured
   focal_point: Smart

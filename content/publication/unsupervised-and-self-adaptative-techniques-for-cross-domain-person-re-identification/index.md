@@ -18,9 +18,3 @@ image:
   preview_only: false
 date: 2021-08-13T13:18:49.667Z
 ---
-# Author notes (optional)
-
-author_notes:
-
-date: '2014-07-01'
-doi: ''

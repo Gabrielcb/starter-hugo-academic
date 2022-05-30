@@ -8,7 +8,7 @@ authors:
   - Ricardo Torres
   - Jacques Wainer
   - and Anderson Rocha
-doi: https://proceedings.science/unicamp-pibic/pibic-2017/papers/automatic-age-range-estimation-on-mobile-devices
+doi: 10.19146/pibic-2017-78055
 publication: XV Congress of Scientific Initiation at UNICAMP
 draft: false
 featured: false

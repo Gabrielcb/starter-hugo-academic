@@ -23,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/gabriel-bertocco-43bb491b9/
   - icon: cv
     icon_pack: ai
-    link: uploads/Gabriel_Bertocco_resume.pdf
+    link: uploads/Gabriel_Bertocco_cv.pdf
 organizations:
   - name: University of Campinas
     url: https://www.unicamp.br/unicamp/index.php/english
